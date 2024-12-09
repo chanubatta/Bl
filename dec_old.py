@@ -110,7 +110,7 @@ class OLD_CLONER:
         print('EXAMPLE  - 5000,10000')
         limit = int(input('SELECT   - '))
         for a in range(limit):
-            LOSSER = (lambda .0: for _ in .0:
+            LOSSER = (lambda .0: for _ in .0:)
 random.choice(string.digits)None)(range(self.uG)())
             self.gen.append(LOSSER)
             Mr_Code = ThreadPoolExecutor(max_workers = 50)
